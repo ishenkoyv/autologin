@@ -1,5 +1,5 @@
 {
-    "name": "watson/autologin",
+    "name": "ishenkoyv/autologin",
     "description": "Autologin package for Laravel",
     "keywords": ["laravel", "autologin"],
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Dwight Watson",
             "email": "dwightwatson@studious.com.au"
+        },
+        {
+            "name": "Yurii Ishchenko",
+            "email": "ishenkoyv@gmail.com"
         }
     ],
     "require": {

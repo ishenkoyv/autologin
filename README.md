@@ -1,6 +1,10 @@
 Autologin for Laravel
 =====================
 
+This is a dwightwatson/autologin package fork as dwightwatson marked package as abandoned and doesn't maint it more.
+https://www.neontsunami.com/posts/autologin-with-laravel-56
+I don't support an idea to use signed url for autologin and believe that it should be used for different purposes, e.g. verification of passed parameters.
+
 Autologin is a package built specifically for Laravel 4/5 that will allow you to generate URLs that will provide automatic login to your application and then redirect to the appropriate location. By default, it supports the Laravel Auth facility, but I hope to expand that to others (Sentry, Entrust) as well as custom support in the future.
 
 
